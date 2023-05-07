@@ -8,7 +8,9 @@ To use the Classroom Timer, simply download the repository and open the `index.h
 
 ## Usage
 
-To use the timer, first set the desired duration by clicking the "+" or "-" buttons next to the minute and second inputs. You can increase or decrease the minutes and seconds individually. Once the duration is set, click the "Start" button to begin counting down from the specified duration. The timer will display the remaining time in minutes and seconds. Once the timer reaches zero, an alert will sound and the timer will stop.
+To use the timer, first enter the desired duration in minutes and seconds using the input fields. Once the duration is set, click the "Start" button to begin counting down from the specified duration. The timer will display the remaining time in minutes and seconds. Once the timer reaches zero, an alert will sound and the timer will stop.
+
+The "Pause" button can be used to pause the timer at any point, and the "Start" button can be used to resume the timer.
 
 The "Pause" button can be used to pause the timer at any point, and the "Start" button can be used to resume the timer.
 
